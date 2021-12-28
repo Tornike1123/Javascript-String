@@ -7,7 +7,7 @@ console.log(strg.split("|")); /* მასივში გადაყვან�
 console.log(strg.search("tornike")); // მოძებნოს სიტყვა ტექსტში
 console.log(strg.startsWith(" ")); // რით იწყება სტრინგი ( TRUE OR FALSE)
 console.log(strg.toUpperCase()); // დიდი ასოები
-console.log(strg.trim());
+console.log(strg.trim()); //space  ჭამოჭრა თავში და ბოლოში
 
 
 
